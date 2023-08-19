@@ -1,0 +1,6 @@
+{{#user}}
+Name: Gunal K 
+Skills: Python, Machine learning, Data Analytics ,
+	 Data Science, Data Visualization(Power BI , IBM cognos Analytics).
+Email: gunagunal142@gmail.com
+{{/user}}
